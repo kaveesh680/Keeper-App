@@ -1,10 +1,10 @@
-import React from 'react'; 
+import React from 'react';
 
-function Header(){
+function Header() {
     return (
-    <header>
-        <h1>Keeper App!</h1>
-    </header>);
+        <header>
+            <h1>Keeper App!</h1>
+        </header>);
 }
 
 export default Header;
